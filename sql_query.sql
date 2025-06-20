@@ -1,3 +1,6 @@
+--create database
+CREATE DATABASE sql_project_p1;
+
 --create table
 DROP TABLE IF EXISTS retail_sales;
 CREATE TABLE retail_sales
